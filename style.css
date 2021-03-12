@@ -1,0 +1,15 @@
+body{
+    font-family: monospace;
+    background-color: cornflowerblue;
+}
+
+#head{
+    background-color:darkgrey;
+    font-size:30px;
+}
+
+#button1{
+    font-size:24px;
+    border-radius:50px;
+    background-image:linear-gradient(to right,lightyellow,lightpink );
+}
